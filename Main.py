@@ -10,7 +10,7 @@ withed = 545
 Programm_title = "Ez Youtube Video Downloader"
 root.geometry(f"{withed}x{highed}")
 root.title(Programm_title)
-root.iconbitmap('F:\Tirth\Code\Python\projects\my_gui\Youtube_Downloader\icoDownload.ico')
+root.iconbitmap('icoDownload.ico')
 
 # Variables
 
