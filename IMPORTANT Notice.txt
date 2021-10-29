@@ -1,0 +1,8 @@
+***
+	Because of i am having an error while converting this .py file to .exe, Can you convert it from me using pyinstaller or anyelse?
+***
+
+if an error comes while using this try to change the iconbitmap. 
+
+
+thanks for using my file....
